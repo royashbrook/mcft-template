@@ -1,0 +1,10 @@
+*
+!.gitignore
+!*.ps1
+!*.psm1
+!*.md
+!*.xml
+!*.json
+!*.sql
+!*.dll
+!*.msg
